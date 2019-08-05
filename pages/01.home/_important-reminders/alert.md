@@ -7,3 +7,4 @@ visible: false
 
 ## Belangrijk
 * [Verkoelend vermogen bomen](https://eenvandaag.avrotros.nl/item/een-boom-geeft-net-zo-veel-verkoeling-als-tien-aircos/) 
+* [Stadskoeling](http://www.biodiversiteit.nl/biodiversiteit-is-levensbelang/ecosysteemdiensten/stadskoeling/)
