@@ -1,6 +1,6 @@
 ---
 title: 'Header Image'
-media_order: Muskat-Gewuerz_600x600.jpg
+media_order: Bomenbladerdek.png
 routable: false
 visible: false
 ---
