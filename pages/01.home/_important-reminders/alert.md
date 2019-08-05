@@ -5,6 +5,5 @@ published: true
 visible: false
 ---
 
-## Important Reminderssssssssssssssss
-* [Journey Map](https://sso.canvaslms.com/courses/1413912/assignments/9519531) assignment due Jun 12th
-* [Course Reflection Log](https://sso.canvaslms.com/courses/1413912/assignments/9519528) assignment due Aug 3rd
+## Belangrijk
+* [Verkoelend vermogen bomen](https://eenvandaag.avrotros.nl/item/een-boom-geeft-net-zo-veel-verkoeling-als-tien-aircos/) 
