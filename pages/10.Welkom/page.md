@@ -1,5 +1,5 @@
 ---
-title: 'Read Me'
+title: Welkom
 published: true
 hide_page_title: true
 show_sidebar: true
