@@ -1,7 +1,9 @@
 ---
-title: Read Me
+title: 'Read Me'
 published: true
 hide_page_title: true
+show_sidebar: true
+hide_git_sync_repo_link: true
 ---
 
 ## Easily Create, Publish, Share and Collaborate using the Grav Open Matter Course Hub!  
