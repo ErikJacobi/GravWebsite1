@@ -1,5 +1,6 @@
 ---
 title: 'De koele boom'
+date: '09:42 05-08-2019'
 textsize:
     scale: ''
     modifier: ''
@@ -14,7 +15,6 @@ style:
     background-repeat: ''
     justify-content: ''
     align-items: ''
-date: '09:42 05-08-2019'
 class: ''
 footer: ''
 presentation:
@@ -23,3 +23,4 @@ presentation:
     styles: ''
 ---
 
+De koele boom is een initiatief van de wokkelgeit
